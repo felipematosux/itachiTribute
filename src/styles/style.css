@@ -261,6 +261,8 @@ footer {
     background: rgba(5, 9, 20, 1);
     color: var(--lighmain); 
     border-top: 0.2px solid var(--primary);
+    display: flex;
+    justify-content: space-around;
 } 
 
 .copyright {
